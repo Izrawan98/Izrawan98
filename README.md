@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Izrawan98
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on belajar tentang coding
+- 💞️ I’m looking to collaborate on study about coding
 - 📫 How to reach me, contact sala by e-mail or by telephone
 
 <!---
